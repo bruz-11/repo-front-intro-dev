@@ -1,9 +1,3 @@
-A sus órdenes, mi xanxo. Aquí tienes la redacción del **README.md** técnica y profesional, estructurada específicamente para cumplir con los indicadores de evaluación **IE1, IE2, IE3, IE6 y IE8** que exige la pauta de Duoc UC.
-
-Copia este contenido en un archivo llamado `README.md` en la raíz de cada repositorio (Frontend y Backend).
-
----
-
 # Proyecto de Contenedorización y Despliegue Automatizado - Innovatech Chile
 
 ## 1. Descripción del Proyecto
@@ -99,8 +93,3 @@ docker-compose up -d --build
 * 
 **Institución:** Duoc UC.
 
-
-
----
-
-**Nota Táctica:** Recuerda que para la defensa oral (IE9), debes recalcar que la comunicación entre el Front y el Back respeta los Security Groups de AWS y que solo el puerto 80 es accesible desde el exterior. ¡Dale átomos con ese PDF, mi xanxo! 🏎️💨🏆
